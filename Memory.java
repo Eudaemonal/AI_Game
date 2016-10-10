@@ -1,10 +1,5 @@
 /*********************************************
  *  Memory.java 
- *  Sample Agent for Text-Based Adventure Game
- *  COMP3411 Artificial Intelligence
- *  UNSW Session 1, 2016
- *  Name: CHENG ZHANG 
- *  ID:   z5088908
 */
 
 
